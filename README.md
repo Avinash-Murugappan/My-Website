@@ -46,19 +46,19 @@
    npm run serve
    ```
    
- ## 🚀 Deploying in Netlify
+ ## 😎 Deploying in Netlify
  
- 1. Build command in Netlify
+1. Build command in Netlify
  
- ```sh
- gatsby build
- ```
+  ```sh
+  gatsby build
+  ```
  
- 2. Publish directory
+2. Publish directory
  
- ```sh
- public/
- ```
+  ```sh
+  public/
+  ```
  
 ## Inspiration
 
@@ -66,5 +66,6 @@ I have always wanted to build a cool website with react. As a starting point I d
 
 ## Resources
 [Gatsby docs](https://www.gatsbyjs.org/docs/)is an excellent source at anypoint of development.
-[React Tutorial](https://youtu.be/Ke90Tje7VS0) - Excellent point to get started on react.
-[Gatsby Tutorial](https://youtu.be/6YhqQ2ZW1sc) - Awesome gatsby resource to get started with.
+[React Tutorial](https://youtu.be/Ke90Tje7VS0) - excellent point to get started on react.
+[Gatsby Tutorial](https://youtu.be/6YhqQ2ZW1sc) - awesome gatsby resource to get started with.
+[Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/)- step by step guide to deploy gatsby on netlify. 
