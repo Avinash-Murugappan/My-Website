@@ -45,7 +45,21 @@
    ```sh
    npm run serve
    ```
-
+   
+ ## 🚀 Deploying in Netlify
+ 
+ 1. Build command in Netlify
+ 
+ ```sh
+ gatsby build
+ ```
+ 
+ 2. Publish directory
+ 
+ ```sh
+ public/
+ ```
+ 
 ## Inspiration
 
 I have always wanted to build a cool website with react. As a starting point I decided to look out for templates, so I can learn by playing with the underlying code. Thanks [brittanychiang.com](https://brittanychiang.com) for the inspiration. This code is based of her project. I really learnt a ton from this project and hope to keep learning new tech.
