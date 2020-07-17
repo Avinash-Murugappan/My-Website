@@ -50,22 +50,22 @@
  
 1. Build command in Netlify
  
-  ```sh
-  gatsby build
-  ```
+   ```sh
+   gatsby build
+   ```
  
 2. Publish directory
  
-  ```sh
-  public/
-  ```
+   ```sh
+   public/
+   ```
  
 ## Inspiration
 
 I have always wanted to build a cool website with react. As a starting point I decided to look out for templates, so I can learn by playing with the underlying code. Thanks [brittanychiang.com](https://brittanychiang.com) for the inspiration. This code is based of her project. I really learnt a ton from this project and hope to keep learning new tech.
 
 ## Resources
-[Gatsby docs](https://www.gatsbyjs.org/docs/)is an excellent source at anypoint of development.
-[React Tutorial](https://youtu.be/Ke90Tje7VS0) - excellent point to get started on react.
-[Gatsby Tutorial](https://youtu.be/6YhqQ2ZW1sc) - awesome gatsby resource to get started with.
+[Gatsby docs](https://www.gatsbyjs.org/docs/)- is an excellent source at anypoint of development.<br>
+[React Tutorial](https://youtu.be/Ke90Tje7VS0) - excellent point to get started on react.<br>
+[Gatsby Tutorial](https://youtu.be/6YhqQ2ZW1sc) - awesome gatsby resource to get started with.<br>
 [Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/)- step by step guide to deploy gatsby on netlify. 
