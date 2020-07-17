@@ -1,4 +1,4 @@
-# Avinash's Website 🖥️
+## Avinash's Website 🖥️
 <h1 align="center">
   avinashmurugappan.netlify.app 
 </h1>
