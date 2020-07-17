@@ -1,7 +1,10 @@
-# My-Website
-Avinash's Website
-
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+# Avinash's Website
+<h1 align="center">
+  avinashmurugappan.netlify.app 
+</h1>
+<p align="center">
+   <a href="https://avinashmurugappan.netlify.app" target="_blank">avinashmurugappan.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+</p>
 
 ## 🛠 Installation & Set Up
 
@@ -60,3 +63,8 @@ Please also note that I did not build this site with the intention of it being a
 ## Inspiration
 
 I have always wanted to build a cool website with react. As a starting point I decided to look out for templates, so I can learn by playing with the underlying code. Thanks [brittanychiang.com](https://brittanychiang.com) for the inspiration. This code is based of her project. I really learnt a ton from this project and hope to keep learning new tech.
+
+## Resources
+[Gatsby docs](https://www.gatsbyjs.org/docs/)is an excellent source at anypoint of development.
+[React Tutorial](https://youtu.be/Ke90Tje7VS0) - Excellent point to get started on react.
+[Gatsby Tutorial](https://youtu.be/6YhqQ2ZW1sc) - Awesome gatsby resource to get started with.
