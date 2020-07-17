@@ -3,7 +3,7 @@
   avinashmurugappan.netlify.app 
 </h1>
 <p align="center">
-   <a href="https://avinashmurugappan.netlify.app" target="_blank">avinashmurugappan.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+   <a href="https://avinashmurugappan.netlify.app/" target="_blank">avinashmurugappan.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 ## 🛠 Installation & Set Up
