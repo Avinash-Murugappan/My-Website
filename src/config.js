@@ -4,7 +4,7 @@ module.exports = {
     'Avinash Murugappan is a software engineer based in United States skilled in building (and occasionally designing) awesome websites, web applications, mobile applications and everything in between.',
   siteKeywords:
     'Avinash Murugappan, Avinash, Murugappan, avinash, software engineer, front-end engineer, web developer, javascript, gmu',
-  siteUrl: 'https://avinash-murugappan.herokuapp.com',
+  siteUrl: 'https://avinashmurugappan.netlify.app/',
   siteLanguage: 'en_US',
   name: 'Avinash Murugappan',
   location: 'Aldie, VA',
