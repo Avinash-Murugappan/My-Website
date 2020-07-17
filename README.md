@@ -3,10 +3,6 @@ Avinash's Website
 
 Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
 
-### TL;DR
-
- [brittanychiang.com](https://brittanychiang.com).
-
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
@@ -59,3 +55,8 @@ Please also note that I did not build this site with the intention of it being a
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+
+
+## Inspiration
+
+I have always wanted to build a cool website with react. As a starting point I decided to look out for templates, so I can learn by playing with the underlying code. Thanks [brittanychiang.com](https://brittanychiang.com) for the inspiration. This code is based of her project. I really learnt a ton from this project and hope to keep learning new tech.
