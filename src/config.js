@@ -18,7 +18,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/avinash-a-murugappan-73b901164/',
+      url: 'https://www.linkedin.com/in/avinash-murugappan-73b901164/',
     },
     {
       name: 'Instagram',
