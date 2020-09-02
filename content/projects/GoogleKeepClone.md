@@ -2,7 +2,7 @@
 date: '2020'
 title: 'Flixder'
 github: 'https://github.com/Avinash-Murugappan/Flixder'
-external: ''
+external: 'https://flixder.herokuapp.com/'
 tech:
   - Python
   - Flask

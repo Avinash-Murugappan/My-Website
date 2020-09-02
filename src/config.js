@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Avinash Murugappan is a software engineer based in United States skilled in building (and occasionally designing) awesome websites, web applications, mobile applications and everything in between.',
   siteKeywords:
-    'Avinash Murugappan, Avinash, Murugappan, avinash, software engineer, front-end engineer, web developer, javascript, gmu',
+    'Avinash Murugappan, avinash murugappan, avinash, murugappan, avinash arunachalam, arunachalam, arunachalachettiar, Avinash, Murugappan, avinash, software engineer, front-end engineer, web developer, javascript, gmu',
   siteUrl: 'https://avinashmurugappan.netlify.app/',
   siteLanguage: 'en_US',
   name: 'Avinash Murugappan',
@@ -11,6 +11,7 @@ module.exports = {
   email: 'avinasharunachalam.am@gmail.com',
   github: 'https://github.com/Avinash-Murugappan',
   twitterHandle: '@avinash___27',
+  medium: 'https://medium.com/@avinash90006',
   socialMedia: [
     {
       name: 'GitHub',
@@ -27,6 +28,10 @@ module.exports = {
     {
       name: 'Twitter',
       url: 'https://twitter.com/avinash___27',
+    },
+    {
+      name: 'Medium',
+      url: 'https://medium.com/@avinash90006',
     },
   ],
 
