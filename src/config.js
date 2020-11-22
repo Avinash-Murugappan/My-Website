@@ -11,7 +11,7 @@ module.exports = {
   email: 'avinasharunachalam.am@gmail.com',
   github: 'https://github.com/Avinash-Murugappan',
   twitterHandle: '@avinash___27',
-  medium: 'https://medium.com/@avinash90006',
+  Youtube: 'https://www.youtube.com/user/drogbaavinash',
   socialMedia: [
     {
       name: 'GitHub',
@@ -23,7 +23,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/avinash_arunachalam/',
+      url: 'https://www.instagram.com/avi_codes/',
     },
     {
       name: 'Twitter',
@@ -31,7 +31,7 @@ module.exports = {
     },
     {
       name: 'Medium',
-      url: 'https://medium.com/@avinash90006',
+      url: 'https://www.youtube.com/user/drogbaavinash',
     },
   ],
 

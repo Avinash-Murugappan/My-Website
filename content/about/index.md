@@ -7,10 +7,10 @@ skills:
   - AWS
   - Angular
   - React
-  - Flutter
+  - iOS app development
 ---
 
-Hello! I'm Avinash, a software engineering Grad.
+Hello! I'm Avinash, a CS Grad.
 
 I enjoy developing software, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 

@@ -1,20 +1,20 @@
 var plugins = [{
-      plugin: require('/Users/avinasharunachalam/amurugappan-website/My-Website/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/avinasharunachalam/Projects/My-Website/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/avinasharunachalam/amurugappan-website/My-Website/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/Users/avinasharunachalam/Projects/My-Website/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/avinasharunachalam/amurugappan-website/My-Website/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('/Users/avinasharunachalam/Projects/My-Website/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/avinasharunachalam/amurugappan-website/My-Website/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/avinasharunachalam/Projects/My-Website/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"BrittanyChiang","short_name":"BrittanyChiang","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"53f5c73a092d52494c53368ef578a5c3"},
     },{
-      plugin: require('/Users/avinasharunachalam/amurugappan-website/My-Website/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/Users/avinasharunachalam/Projects/My-Website/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/avinasharunachalam/amurugappan-website/My-Website/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/avinasharunachalam/Projects/My-Website/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
